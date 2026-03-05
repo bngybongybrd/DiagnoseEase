@@ -1,4 +1,4 @@
-# Save-The-World-2
+# DiagnoseEase
 
 Term 2 Coding Project ®didumfernando, yingxuan, shibo
 
