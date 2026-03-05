@@ -10,7 +10,8 @@ Languages used for this Project: Python, HTML, CSS, SQL and Javascript
 
 Replit Link: https://replit.com/@bngybongybrd/stw2
 
-Website link: https://fa7ce131-1da8-4e76-9501-fbeeff7f0baf-00-2jyojv239m7ka.kirk.replit.dev 
+Website link: https://fa7ce131-1da8-4e76-9501-fbeeff7f0baf-00-2jyojv239m7ka.kirk.replit.dev
+(**Please watch the video below if it does not work. 🙏**)
 
 Video Link: https://youtu.be/OBQ-iXGrFHM
 
