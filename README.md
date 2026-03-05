@@ -16,7 +16,9 @@ Video Link: https://youtu.be/OBQ-iXGrFHM
 
 Microsoft Imagine Junior Cup Slides Link: https://docs.google.com/presentation/d/1I_28aptqZXX3VMq69QDF9vnfxHudf_SKuoremIdZCJQ/edit?usp=sharing
 
-Credits: https://platform.openai.com/docs/api-reference (Open AI api)
+Credits:
+- https://github.com/didumfernando/Dr-Koo-Medical-Database
+- https://platform.openai.com/docs/api-reference (Open AI api)
 
 Design considerations:
 - User friendly
